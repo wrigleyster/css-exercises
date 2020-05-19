@@ -1,0 +1,16 @@
+section{
+    border: 1px solid blueviolet;
+    margin: 40px 0;
+}
+#ex5 img {
+    display: block;
+    border: 3px palegreen solid;
+    width: 80px;
+    height: 40px;
+    background-color: palegreen;
+}
+
+#ex6 ul {
+    margin: 0;
+    padding: 0;
+}
